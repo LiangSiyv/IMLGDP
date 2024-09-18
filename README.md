@@ -33,4 +33,4 @@ We utilize 1 P100 GPU for testing. Test the trained model with best performance 
 
 ```python tools/test.py configs/config.py pretrained/best_result.pth --eval top_k_accuracy```
 
-the trained weights for test on the NMFs\_CSL Dataset can download at  [Google Drive Disk Link]() and [Baidu Pan Disk Link]().
+the trained weights for test on the NMFs\_CSL Dataset can download at  [Google Drive Disk Link](https://drive.google.com/drive/folders/16q1UDJiVZubwJ1fD2tY9-kJs797c0AqG?usp=drive_link) and [Baidu Pan Disk Link](https://pan.baidu.com/).
