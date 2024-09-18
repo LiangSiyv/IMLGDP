@@ -22,7 +22,9 @@ pip3 install -e .
 ```
 ### Create the pretrained folder
 
-Download the pretrained weights given below.
+Download the pretrained weights given below. 
+
+Download the Datas folder for the prepocessed skeleton data, and the dataset split file.
 
 ## Train
 We utilize 2 Nvidia Tesla V100 GPUs for training.
